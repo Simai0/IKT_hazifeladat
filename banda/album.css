@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    background-color: rgb(132, 140, 156);
+    border: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+}
+
+li{
+    list-style-type: none;
+    width: 300px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid black;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+td{
+    text-align: center;
+}
+
+li{
+    margin: auto;
+    background-color: rgb(94, 77, 77);
+    color:  cadetblue;
+    border-color: rgb(110, 55, 55);
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+.back {
+    text-align: right;
+    width: auto;
+    height: 15vh;
+}
+
