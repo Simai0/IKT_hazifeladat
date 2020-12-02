@@ -27,3 +27,72 @@ table tr td img {
 table tr td {
     width: 20vw ;
 }
+
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    padding: 0%;
+}
+
+.koncertek li{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.koncertek li b {
+    font-size: 50px;
+}
+
+.cim{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Bebas Neue', cursive;
+    background-color: black;
+    color: white;
+}
+
+.termek{
+    border: 1px solid black;
+    width: 200px;
+    height: 370px;
+    margin: 20px;
+    float: left;
+}
+
+.termek img {
+    width: 100%;
+}
+
+.termek h3  {
+    text-align: center
+}
+
+.termek h2 {
+    text-align: center;
+}
+
+.buy-btn{
+    width: 100%;
+    background-color: black;
+    border: none;
+    color: white;
+    height: 50px;   
+}
+
+.cart {
+   height: 100px;
+   width: 300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    background-color: black;
+    color: white;
+    float: right;
+}
+
+
+
